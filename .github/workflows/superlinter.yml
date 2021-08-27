@@ -19,7 +19,3 @@ jobs:
       
       - name: Run codecov/codecov-action@v1
         uses: codecov/codecov-action@v1
-
-      - name: Test coverage
-        run: covr::codecov()
-        shell: Rscript {0}
