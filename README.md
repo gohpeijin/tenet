@@ -10,7 +10,6 @@
 
 ### Another Heading 3
 
+![superlinter workflow](https://github.com/GervinFung/tenet/actions/workflows/superlinter.yml/badge.svg)
 
-
-[![Build Status](https://github.com/TheAlgorithms/Julia/workflows/CI/badge.svg)](https://github.com/GervinFung/tenet/actions)
-[![codecov](https://codecov.io/gh/TheAlgorithms/Julia/branch/main/graph/badge.svg)](https://app.codecov.io/gh/GervinFung/tenet)
+![code cov](https://codecov.io/gh/GervinFung/tenet/branch/main/graph/badge.svg?token=ILMRQMC16W)

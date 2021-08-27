@@ -1,3 +1,7 @@
+using Coverage, Test, LibGit2
+
+import CoverageTools
+
 @testset "Add" begin
 
     @testset "Test Add" begin

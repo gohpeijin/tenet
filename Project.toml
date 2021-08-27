@@ -1,0 +1,7 @@
+name = "tenet"
+uuid = "d67fddb7-90fc-48c9-a8ad-7d94977b8abd"
+authors = ["PoolOfDeath20 <gervinfungdaxuen@gmail.com>"]
+version = "0.1.0"
+
+[targets]
+test = ["CoverageTools", "Test"]
