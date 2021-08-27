@@ -4,4 +4,4 @@ authors = ["PoolOfDeath20 <gervinfungdaxuen@gmail.com>"]
 version = "0.1.0"
 
 [targets]
-test = ["CoverageTools", "Test"]
+test = ["main"]
